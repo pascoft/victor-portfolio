@@ -62,12 +62,13 @@ Exercícios, algoritmos e trabalhos.
 - Trabalhar com tecnologia para construir minha independência financeira  
 - Conseguir oportunidades como freelancer e desenvolvedor júnior  
 
+---
 
 ## 📫 Contato
 
 - **Email:** victorsfn96@gmail.com 
 - **LinkedIn:** https://www.linkedin.com/in/victor-nascimento-a4bbb1326/
-- **GitHub:** https://github.com/pascxt
+- **GitHub:** https://github.com/pascoft
 
 ---
 
