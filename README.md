@@ -15,9 +15,24 @@ Tenho experiência prática com:
 
 - Python (lógica, automação, análise de dados)
 - Fundamentos de redes e sistemas microcontrolados
+- Desenvolvimento full-stack (Django REST Framework + Flutter, em projeto de equipe)
 - Suporte técnico e atendimento (experiência profissional real na PC Link Informática)
 
 Atualmente em fase intensiva de estudo e construção de portfólio, unindo teoria com projetos práticos.
+
+---
+
+## 🌟 Projeto em Destaque
+
+### 📱 MoveU — App de Carona Universitária
+Sistema completo de carona colaborativa entre estudantes, com arquitetura cliente-servidor, desenvolvido em equipe de 6 pessoas.
+
+- **Backend:** Python, Django, Django REST Framework, autenticação JWT, API REST, SQLite
+- **Frontend:** Flutter (Android/iOS), gerenciamento de estado com Provider, requisições com Dio
+- **Testes:** testes unitários com Django Test Framework, testes manuais em dispositivos físicos
+- **Funcionalidades:** cadastro de motoristas/passageiros, criação e solicitação de caronas, filtros por horário/bairro, histórico de viagens, integração com WhatsApp
+
+[🔗 Ver repositório completo](https://github.com/pascoft/Projetos-acad-micos)
 
 ---
 
@@ -34,6 +49,8 @@ Atualmente em fase intensiva de estudo e construção de portfólio, unindo teor
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
@@ -42,15 +59,15 @@ Atualmente em fase intensiva de estudo e construção de portfólio, unindo teor
 
 ---
 
-## 📚 Projetos
+## 📚 Outros Projetos
 
-🔹 **Dashboard Financeiro Pessoal** *(em construção)*  
+🔹 **Dashboard Financeiro Pessoal** *(em construção)*
 Análise de dados reais de planejamento financeiro com Python, Pandas e Matplotlib.
 
-🔹 **Analisador de Logs** *(em construção)*  
+🔹 **Analisador de Logs** *(em construção)*
 Script em Python para identificar padrões suspeitos de acesso, com foco em cibersegurança.
 
-🔹 **Exercícios e fundamentos**  
+🔹 **Exercícios e fundamentos**
 Prática de lógica, estruturas de dados e algoritmos em Python e C.
 
 ---
@@ -65,14 +82,14 @@ Prática de lógica, estruturas de dados e algoritmos em Python e C.
 
 ## 📫 Contato
 
-- **Email:** victorsfn96@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/victor-nascimento-a4bbb1326/  
+- **Email:** victorsfn96@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/victor-nascimento-a4bbb1326/
 - **GitHub:** https://github.com/pascoft
 
 ---
 
 <p align="center">
-  ✨ Obrigado por visitar meu portfólio!  
+  ✨ Obrigado por visitar meu portfólio!
   <br>
   Sempre buscando evolução e novos desafios.
 </p>
